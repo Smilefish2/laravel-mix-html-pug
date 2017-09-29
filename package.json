@@ -1,0 +1,29 @@
+{
+  "name": "laravel-mix-html-pug",
+  "version": "1.0.0",
+  "description": "Make html page use laravel-mix and pugjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smilefish2/laravel-mix-html-pug.git"
+  },
+  "keywords": [
+    "laravel",
+    "mix",
+    "html",
+    "pug"
+  ],
+  "author": "JMJ<yang.jmj@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Smilefish2/laravel-mix-html-pug/issues"
+  },
+  "homepage": "https://github.com/Smilefish2/laravel-mix-html-pug#readme",
+  "dependencies": {
+    "laravel-mix": "^1.4.3",
+    "mkdirp": "^0.5.1"
+  }
+}
